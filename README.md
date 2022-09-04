@@ -13,4 +13,9 @@
     <td></td>
     <td></td>
   </tr>
+  <tr>
+    <td><a href='https://github.com/dmitrij-Nesterov/CIFAR10'>CIFAR10</a></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
