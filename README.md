@@ -11,11 +11,10 @@
   <tr>
     <td><a href='https://github.com/dmitrij-Nesterov/NN_recognizes_numbers'>NN_recognizes_numbers</a></td>
     <td></td>
-    <td></td>
+    <td><a href='https://github.com/dmitrij-Nesterov/Fish_eat_fish'>Fish eat fish</a></td>
   </tr>
   <tr>
     <td><a href='https://github.com/dmitrij-Nesterov/CIFAR10'>CIFAR10</a></td>
     <td></td>
     <td></td>
-  </tr>
 </table>
